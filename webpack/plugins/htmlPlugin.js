@@ -30,12 +30,6 @@ module.exports = Object.keys(titles).map(title => {
     path: manifest.paths.build,
     filename: `${title}.html`,
     inject: true,
-    minify: {
-      collapseWhitespace: true,
-      minifyCSS: true,
-      minifyJS: true,
-      removeComments: true,
-      useShortDoctype: true,
-    },
+    minify: false,
   });
 });
