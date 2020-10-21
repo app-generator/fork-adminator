@@ -1,9 +1,15 @@
-# Adminator HTML5 Admin Template
-**Adminator** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/adminator/index.html
+# [Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator)
 
-# Preview
+**[Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator)** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets.  
 
-### Screenshot
+<br />
+
+> Links
+
+- [Adminator](https://colorlib.com/polygon/adminator/index.html) - Html version
+
+
+<br />
 
 ![Adminator admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/adminator-free-admin-dashboard-template.jpg)
 
@@ -165,3 +171,8 @@ Initial Release
 ## License
 
 Adminator is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
+
+<br />
+
+---
+[Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) - Open-Source Bootstrap template
