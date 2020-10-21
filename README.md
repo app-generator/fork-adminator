@@ -6,8 +6,9 @@
 
 > Links
 
-- [Adminator](https://colorlib.com/polygon/adminator/index.html) - Html version
-
+- [Adminator](https://colorlib.com/polygon/adminator/index.html) - Html version (Demo)
+- [Adminator - Flask](https://appseed.us/admin-dashboards/flask-dashboard-adminator) - free starter provided by AppSeed
+- [Adminator - Django](https://appseed.us/admin-dashboards/django-dashboard-adminator) - free starter provided by AppSeed
 
 <br />
 
